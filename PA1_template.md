@@ -172,4 +172,3 @@ xyplot(av$steps ~ av$interval | av$weekdays,
        xlab="Interval",
        ylab="Number of steps")
 ```
-
